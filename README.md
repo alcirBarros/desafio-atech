@@ -29,4 +29,5 @@ Para utilizar o Postman Collection, execute a ação abaixo:
 
 
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://www.postman.com/educafacil/workspace/3337e2cb-8e48-4ff6-a6d1-dcafd2a98e87/request/9776355-5f5af3ac-484e-43e4-b268-5e8c4027a833)
+
 Para mais informações sobre o Postman, acesse https://www.postman.com/
